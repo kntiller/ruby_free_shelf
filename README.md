@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Freeshelf 2.0
 Build a Rails application to collect an index of free programming books online. The end goal is an application that allows users to see a list of all the books, register and log in, and favorite books.
 ## Requirements and goals
