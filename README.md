@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Freeshelf 2.0
 Build a Rails application to collect an index of free programming books online. The end goal is an application that allows users to see a list of all the books, register and log in, and favorite books.
 ## Requirements and goals
@@ -34,3 +35,29 @@ Users should be able to comment on books. Each book will need to have its own un
 Users should be able to suggest new books for Freeshelf. You can do this with a separate model or by using the Book model with a new boolean indicating whether the suggestion has been accepted or not. Either way, a new page, `/suggestions/`, should be available to admins, showing them all the current suggestions and allowing them to accept or decline the suggestion.
 ## Resources
 - [Free Programming Books Online](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+=======
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+>>>>>>> Restart
