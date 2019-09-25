@@ -14,8 +14,12 @@
  *= require_self
  */
 
-@import url('https://fonts.googleapis.com/css?family=Chilanka')
 
-body {
-    font-family: 'Chilanka', cursive;
-} 
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
+
+
+
+
+
+
